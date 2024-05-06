@@ -1,4 +1,6 @@
 # 2a_Stop_and_Wait_Protocol
+
+### NAME: K ESWANTH KUMAR
 ## AIM 
 To write a python program to perform stop and wait protocol.
 ## ALGORITHM
@@ -39,9 +41,11 @@ while True:
 ```
 
 ## OUTPUT:
-![image](https://github.com/eswanth2005/2a_Stop_and_Wait_Protocol/assets/164656722/279de765-310f-4133-9fb6-2e0bcdfacfb4)
-![image](https://github.com/eswanth2005/2a_Stop_and_Wait_Protocol/assets/164656722/957207cb-ebab-4cf3-87b2-bf72644795da)
+## CLIENT:
+![Screenshot (35)](https://github.com/eswanth2005/2a_Stop_and_Wait_Protocol/assets/164656722/f5230ae6-d33a-46d8-afb6-1f15ad027a19)
 
+## SERVER
+![Screenshot (36)](https://github.com/eswanth2005/2a_Stop_and_Wait_Protocol/assets/164656722/fb8d05a4-7add-417b-8290-b7c69da80e5b)
 
 ## RESULT:
 Thus, python program to perform stop and wait protocol was successfully executed.
